@@ -7,7 +7,7 @@
     'website': 'https://github.com/Ghitaakhaled9/gestion-Commandes',
     'depends': ['base', 'sale'],
     'data': [
-    'views/gestion_commandes_view.xml',
+    'views/views.xml',
     ],
     'installable': True,
     'application': True,
